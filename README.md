@@ -34,10 +34,10 @@ Los trancones de larga duracion y incidentes en los cruces de los semaforos
 
 | Aspecto                    | Proceso Tradicional              | Solución con IA                         |
 |----------------------------|----------------------------------|-----------------------------------------|
-| Velocidad de respuesta     | Lento                            | Alta, automática                        |
-| Costo operativo            | Alto                             | Bajo, eficiente                         |
-| Consistencia de respuestas | Variable                         | Homogénea y mejorada                   |
-| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo     |
+| Riesgo de accidentes       | Mediano/Alto                     | reducido                                |
+| Costo operativo            | Mediano                          | Mediano/alto                            |
+| Consistencia de respuestas | Fija o desproporcionada          | Homogénea y mejorada                    |
+| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo      |
 
 ## 5. Reflexión Personal
 
